@@ -368,6 +368,10 @@ li {
   border: 5px solid #ef7179;
 }
 
+.texto-boton:hover {
+  background-color: #67b54b;
+}
+
 @media (max-width: 575px) {
     h1{
         font-size: 30px;
